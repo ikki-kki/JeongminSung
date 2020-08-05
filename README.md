@@ -8,8 +8,8 @@
 Hello✋<br/>
 I am in between jobs.<br/>
 
-Love beautiful UI and Animation. I believe that Technology and Design are connected.<br/>
-Actively study new Technologies to achieve better results.<br/>
+Love beautiful UI and Animation. I believe that Technology is closely linked in the design industry.<br/>
+Actively Learning new Technologies to achieve better results.<br/>
 
 
 [![Readme Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=notion&link=https://www.notion.so/Jeongmin-Sung-80bdf419cac74d45a62d9b62fb4f667e)](https://www.notion.so/Jeongmin-Sung-80bdf419cac74d45a62d9b62fb4f667e) 
