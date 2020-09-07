@@ -6,7 +6,6 @@
 
 ### Front-end Developer
 Hello✋<br/>
-I am in between jobs.<br/>
 
 Love beautiful UI and Animation. I believe that Technology is closely linked in the design industry.<br/>
 Actively Learning new Technologies to achieve better results.<br/>
